@@ -19,6 +19,6 @@ The output of the script is shown below.
 ## How to Use
 
 Run the script from the command line using bash:
-    ```bash
+    ```
     bash monitor_gpus.sh
     ```
