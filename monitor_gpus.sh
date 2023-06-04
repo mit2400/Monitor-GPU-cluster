@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# List of IPs
+# List of example IPs
 servers=("192.168.1.1" "192.168.1.2" "192.168.1.3")  # replace with your server IPs
 
 # SSH username and password
